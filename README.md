@@ -9,7 +9,8 @@ Smoke tests for JIRA::REST::Class
 # USAGE
 
     $ sparrow plg run jira-rest-class-smoke \
-      --param jira_user='jira_user_id' --param jira_password='super-secret'
+    --param jira_user='jira_user_id' \
+    --param jira_password='super-secret'
 
 # Author
 
